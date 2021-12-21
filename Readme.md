@@ -1,0 +1,1 @@
+Este projeto é uma tela de login simples com efeitos visuais dinâmicos.
